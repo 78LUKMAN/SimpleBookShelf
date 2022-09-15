@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins&display=swap');
+
+body {
+    font-family: 'Poppins';
+}
+
+.container-bg {
+    background-image: url(../img/bg.jpg);
+    background-color: rgba(0, 0, 0, 0.597);
+    background-blend-mode: color-burn;
+}
+
+.text-sh {
+    color: #effffd;
+    font-weight: 700;
+    text-shadow: -2px 5px 10px rgba(66, 194, 255, 0.5);
+}
